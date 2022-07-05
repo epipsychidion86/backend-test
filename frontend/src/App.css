@@ -1,0 +1,21 @@
+button {
+    margin-top: 10px;
+}
+
+label {
+    margin-right: 5px;
+}
+
+#greeting {
+    display: inline-block;
+}
+
+.logout-btn {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+span {
+    padding-left: 10px;
+    cursor: pointer;
+}

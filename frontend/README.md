@@ -1,0 +1,1 @@
+This is the frontend repo for the "albums" project v2!
